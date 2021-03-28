@@ -1,0 +1,7 @@
+C:\Users\Asus\Desktop\C Sharp Final\OOP2 Github Final\Lab Task 28-03-21\Lab Task 28-03-21 [Bank]\bin\Debug\Lab Task 28-03-21 [Bank].exe.config
+C:\Users\Asus\Desktop\C Sharp Final\OOP2 Github Final\Lab Task 28-03-21\Lab Task 28-03-21 [Bank]\bin\Debug\Lab Task 28-03-21 [Bank].exe
+C:\Users\Asus\Desktop\C Sharp Final\OOP2 Github Final\Lab Task 28-03-21\Lab Task 28-03-21 [Bank]\bin\Debug\Lab Task 28-03-21 [Bank].pdb
+C:\Users\Asus\Desktop\C Sharp Final\OOP2 Github Final\Lab Task 28-03-21\Lab Task 28-03-21 [Bank]\obj\Debug\Lab Task 28-03-21 [Bank].csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\C Sharp Final\OOP2 Github Final\Lab Task 28-03-21\Lab Task 28-03-21 [Bank]\obj\Debug\Lab Task 28-03-21 [Bank].csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C Sharp Final\OOP2 Github Final\Lab Task 28-03-21\Lab Task 28-03-21 [Bank]\obj\Debug\Lab Task 28-03-21 [Bank].exe
+C:\Users\Asus\Desktop\C Sharp Final\OOP2 Github Final\Lab Task 28-03-21\Lab Task 28-03-21 [Bank]\obj\Debug\Lab Task 28-03-21 [Bank].pdb
