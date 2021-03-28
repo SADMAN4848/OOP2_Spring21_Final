@@ -1,0 +1,7 @@
+C:\Users\Asus\Desktop\C Sharp Final\OOP2 Github Final\Lab Task 21-03-21 [Student and Course]\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Asus\Desktop\C Sharp Final\OOP2 Github Final\Lab Task 21-03-21 [Student and Course]\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Asus\Desktop\C Sharp Final\OOP2 Github Final\Lab Task 21-03-21 [Student and Course]\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Asus\Desktop\C Sharp Final\OOP2 Github Final\Lab Task 21-03-21 [Student and Course]\ConsoleApp1\obj\Debug\Student Course Dept.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\C Sharp Final\OOP2 Github Final\Lab Task 21-03-21 [Student and Course]\ConsoleApp1\obj\Debug\Student Course Dept.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C Sharp Final\OOP2 Github Final\Lab Task 21-03-21 [Student and Course]\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Asus\Desktop\C Sharp Final\OOP2 Github Final\Lab Task 21-03-21 [Student and Course]\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
