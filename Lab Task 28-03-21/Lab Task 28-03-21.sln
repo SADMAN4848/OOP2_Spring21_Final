@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab Task 28-03-21", "Lab Task 28-03-21\Lab Task 28-03-21.csproj", "{D795939F-E7DD-429C-AB2D-4B7458B2E5B1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test Interface 1", "Lab Task 28-03-21\Test Interface 1.csproj", "{D795939F-E7DD-429C-AB2D-4B7458B2E5B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab Task 28-03-21 [Bank]", "Lab Task 28-03-21 [Bank]\Lab Task 28-03-21 [Bank].csproj", "{086B237B-99D8-4FC8-9220-520B15CBF08C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test Interface 2", "Lab Task 28-03-21 [Bank]\Test Interface 2.csproj", "{086B237B-99D8-4FC8-9220-520B15CBF08C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test Interface 3", "Lab Task 28-03-21 MusicRadio\Test Interface 3.csproj", "{DFE4CD94-29EA-4445-9ABE-659051F1632C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{086B237B-99D8-4FC8-9220-520B15CBF08C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{086B237B-99D8-4FC8-9220-520B15CBF08C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{086B237B-99D8-4FC8-9220-520B15CBF08C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFE4CD94-29EA-4445-9ABE-659051F1632C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFE4CD94-29EA-4445-9ABE-659051F1632C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFE4CD94-29EA-4445-9ABE-659051F1632C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFE4CD94-29EA-4445-9ABE-659051F1632C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

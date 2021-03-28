@@ -1,0 +1,7 @@
+C:\Users\Asus\Desktop\C Sharp Final\OOP2 Github Final\Lab Task 28-03-21\Lab Task 28-03-21 MusicRadio\obj\Debug\Test Interface 3.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\C Sharp Final\OOP2 Github Final\Lab Task 28-03-21\Lab Task 28-03-21 MusicRadio\obj\Debug\Test Interface 3.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C Sharp Final\OOP2 Github Final\Lab Task 28-03-21\Lab Task 28-03-21 MusicRadio\bin\Debug\Lab Task 28-03-21 MusicRadio.exe.config
+C:\Users\Asus\Desktop\C Sharp Final\OOP2 Github Final\Lab Task 28-03-21\Lab Task 28-03-21 MusicRadio\bin\Debug\Lab Task 28-03-21 MusicRadio.exe
+C:\Users\Asus\Desktop\C Sharp Final\OOP2 Github Final\Lab Task 28-03-21\Lab Task 28-03-21 MusicRadio\bin\Debug\Lab Task 28-03-21 MusicRadio.pdb
+C:\Users\Asus\Desktop\C Sharp Final\OOP2 Github Final\Lab Task 28-03-21\Lab Task 28-03-21 MusicRadio\obj\Debug\Lab Task 28-03-21 MusicRadio.exe
+C:\Users\Asus\Desktop\C Sharp Final\OOP2 Github Final\Lab Task 28-03-21\Lab Task 28-03-21 MusicRadio\obj\Debug\Lab Task 28-03-21 MusicRadio.pdb
