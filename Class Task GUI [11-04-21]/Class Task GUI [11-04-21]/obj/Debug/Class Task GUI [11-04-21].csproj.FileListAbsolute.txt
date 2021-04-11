@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\C Sharp Final\OOP2 Github Final\Class Task GUI [11-04-21]\Class Task GUI [11-04-21]\bin\Debug\Class Task GUI [11-04-21].exe.config
+C:\Users\Asus\Desktop\C Sharp Final\OOP2 Github Final\Class Task GUI [11-04-21]\Class Task GUI [11-04-21]\bin\Debug\Class Task GUI [11-04-21].exe
+C:\Users\Asus\Desktop\C Sharp Final\OOP2 Github Final\Class Task GUI [11-04-21]\Class Task GUI [11-04-21]\bin\Debug\Class Task GUI [11-04-21].pdb
+C:\Users\Asus\Desktop\C Sharp Final\OOP2 Github Final\Class Task GUI [11-04-21]\Class Task GUI [11-04-21]\obj\Debug\Class Task GUI [11-04-21].csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\C Sharp Final\OOP2 Github Final\Class Task GUI [11-04-21]\Class Task GUI [11-04-21]\obj\Debug\Class_Task_GUI__11_04_21_.Form1.resources
+C:\Users\Asus\Desktop\C Sharp Final\OOP2 Github Final\Class Task GUI [11-04-21]\Class Task GUI [11-04-21]\obj\Debug\Class_Task_GUI__11_04_21_.Properties.Resources.resources
+C:\Users\Asus\Desktop\C Sharp Final\OOP2 Github Final\Class Task GUI [11-04-21]\Class Task GUI [11-04-21]\obj\Debug\Class Task GUI [11-04-21].csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\C Sharp Final\OOP2 Github Final\Class Task GUI [11-04-21]\Class Task GUI [11-04-21]\obj\Debug\Class Task GUI [11-04-21].csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C Sharp Final\OOP2 Github Final\Class Task GUI [11-04-21]\Class Task GUI [11-04-21]\obj\Debug\Class Task GUI [11-04-21].exe
+C:\Users\Asus\Desktop\C Sharp Final\OOP2 Github Final\Class Task GUI [11-04-21]\Class Task GUI [11-04-21]\obj\Debug\Class Task GUI [11-04-21].pdb

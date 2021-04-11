@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class Task GUI [11-04-21]", "Class Task GUI [11-04-21]\Class Task GUI [11-04-21].csproj", "{9981F475-289F-48C9-8C88-666BCCD2ABFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9981F475-289F-48C9-8C88-666BCCD2ABFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9981F475-289F-48C9-8C88-666BCCD2ABFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9981F475-289F-48C9-8C88-666BCCD2ABFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9981F475-289F-48C9-8C88-666BCCD2ABFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D33EDD63-78B7-455A-AF44-6BFBDBCE7563}
+	EndGlobalSection
+EndGlobal
